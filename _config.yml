@@ -5,7 +5,7 @@ description: >-
   just a minimalist, personal blog
 lang: en-US
 timezone:  Europe/Rome
-repo: https://github.com/p0wex/Gesko # site repo [optional]
+repo: https://github.com/PyGera/blog # site repo [optional]
 data-theme: dark # default theme "dark" | "light"
 
 author:
